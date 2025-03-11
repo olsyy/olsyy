@@ -14,9 +14,10 @@
 
 ## 🔥 Обо мне
 - 💼 Разрабатываю мобильные приложения на Android
-- 🎓 Окончила НИУ ВШЭ / SBER School21
 - 🎨 Изучаю UI/UX в Jetpack Compose
 - 🧩 Фокусируюсь на многомодульности и чистой архитектуре
+- 🎓 Окончила НИУ ВШЭ / SBER School21
+
 
 ## 🛠 Tech Stack:
 ![Android Shield](https://img.shields.io/badge/android-green?style=for-the-badge&logo=android&logoColor=white&color=%2334A853)
